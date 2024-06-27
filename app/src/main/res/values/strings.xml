@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">FirebaseAuthentication</string>
+    <string name="no_data">Not Signed In</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+
+    <string name="dont_have_account">Don\'t Have An Account?</string>
+    <string name="already_have_account">Already Have An Account?</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="client_id" tools:ignore="TypographyDashes">1078130873392-4ubd93car9gcrhsln8dss8ldfav0jd5i.apps.googleusercontent.com</string>
+    <string name="LearnBvrith" />
+</resources>
